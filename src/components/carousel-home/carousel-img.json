@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "img": "https://regiverse.com/wp-content/uploads/2018/01/render_architettura.jpg",
+        "caption": "Transforming ideas into structures"
+    },
+    {
+        "id": 2,
+        "img": "https://themes.pixelwars.org/archy/demo-01/wp-content/uploads/sites/2/2023/05/simone-hutsch-D7nSqgT-_GE-unsplash-1300x650.jpg",
+        "caption": "Building your vision, creating reality"
+    },
+    {
+        "id": 3,
+        "img": "https://themes.pixelwars.org/archy/demo-01/wp-content/uploads/sites/2/2023/05/messeplatz-cloudy-sky-basel-switzerland.jpg",
+        "caption": "Architecture is our passion, design is our art"
+    },
+    {
+        "id": 4,
+        "img": "https://themes.pixelwars.org/archy/demo-01/wp-content/uploads/sites/2/2023/05/daniel-stone-A4TtfFo_qRw-unsplash.jpg",
+        "caption": "Designing spaces, creating experiences"
+    }
+]
