@@ -1,5 +1,6 @@
 import { FaArrowUp } from 'react-icons/fa';
 import { Fade } from 'react-reveal';
+import './style.css';
 
 export default function FirstSection() {
     return (
